@@ -2,8 +2,24 @@
     width: 62px;
     height: 62px;
    }
-#nav{
+#navbar{
     display: flex;
     justify-content: space-between;
     align-items: center;
+   align-items: center;
+   padding: 5px;
+   background-color: gray;
+   color: white;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body{
+ margin: 0px;
+    padding: 0px;
+    background-color: darkgray;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+#links{
+    padding-right: 10px;
 }
